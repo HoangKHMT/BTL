@@ -1,0 +1,14 @@
+{
+  "version": "v1.0",
+  "locked_at": "2026-11-25T14:30:19+07:00",
+  "guideline_path": "annotation_guideline.md",
+  "sha256": "d2cf9a7f9f3a5e4e038ddd6bbfbba88f9ded691761fa158a2a42ee7013e656b5",
+  "dev_count": 10,
+  "annotated_count": 3,
+  "cross_reviewed_count": 7,
+  "manual_review_items": [
+    "DT05-006",
+    "DT05-011",
+    "DT05-018"
+  ]
+}

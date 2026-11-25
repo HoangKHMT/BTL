@@ -1,0 +1,1 @@
+{"timestamp": "2026-11-25T12:21:59+00:00", "item_id": "MOCK-001", "experiment": "E1", "stage": "initial", "model_id": "MOCK-SYNTHETIC", "prompt_version": "e1-basic-v1", "temperature": 0.1, "content": "Ng?nh m? ph?ng t?ng 5,2% trong qu? I n?m 2026. Xu?t kh?u m? ph?ng t?ng 8%.", "response_metadata": {"model": "MOCK-SYNTHETIC", "done": true, "mock": true}}

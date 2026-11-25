@@ -1,0 +1,30 @@
+{
+  "run_id": "MOCK-E1-20261125T192159",
+  "created_at": "2026-11-25T12:21:59+00:00",
+  "experiment": "E1",
+  "split": "dev",
+  "model_id": "MOCK-SYNTHETIC",
+  "api_endpoint": "mock://synthetic-fixture",
+  "temperature": 0.1,
+  "prompt_version": "e1-basic-v1",
+  "run_commit": "",
+  "source_fingerprint": "367c6054fce8b10e9c08ab23fdd6b2f1d799e1bacf43727a5d61d95f940c849d",
+  "worktree_status": "uncommitted",
+  "source_revision": "MOCK-SYNTHETIC-FIXTURE",
+  "protocol_tag": "protocol-frozen",
+  "protocol_commit": "072666a471383d8596c03c28a70ec2c2ad6ee363",
+  "config_tag": "",
+  "config_tag_commit": "",
+  "postcheck_policy": "not_applicable",
+  "status": "completed",
+  "completed_ids": [
+    "MOCK-001"
+  ],
+  "item_results": {
+    "MOCK-001": {
+      "retry_count": 0,
+      "dropped_sentence_count": 0
+    }
+  },
+  "completed_at": "2026-11-25T12:21:59+00:00"
+}

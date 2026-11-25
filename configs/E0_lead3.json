@@ -1,0 +1,14 @@
+{
+  "experiment": "E0",
+  "method": "Lead-3",
+  "model_id": "Lead-3",
+  "hypothesis": "Baseline trich xuat don gian lay 3 cau dau cua than bai thuong giu duoc su kien chinh va so lieu mo dau nhung co the bo sot so lieu quan trong o giua/cuoi bai hoac dai/ngan khong dong deu.",
+  "parameters": {
+    "num_sentences": 3,
+    "sentence_splitter": "src/check_gold.py:split_sentences"
+  },
+  "postcheck_policy": "not_applicable",
+  "protocol_tag": "protocol-frozen",
+  "protocol_commit": "072666a471383d8596c03c28a70ec2c2ad6ee363",
+  "runner": "src/evaluate.py"
+}

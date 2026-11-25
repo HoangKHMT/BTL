@@ -1,0 +1,11 @@
+﻿item_id,summary_before,summary_after,retry_count,dropped_sentence_count,final_sentence_count
+DT05-004,MOCK-SYNTHETIC: synthetic numeric test 987654321%.,MOCK-SYNTHETIC: retry marker sentence.,1,1,1
+DT05-006,MOCK-SYNTHETIC: synthetic numeric test 987654321%.,MOCK-SYNTHETIC: retry marker sentence.,1,1,1
+DT05-011,MOCK-SYNTHETIC: synthetic numeric test 987654321%.,MOCK-SYNTHETIC: retry marker sentence.,1,1,1
+DT05-017,MOCK-SYNTHETIC: synthetic numeric test 987654321%.,MOCK-SYNTHETIC: retry marker sentence.,1,1,1
+DT05-018,MOCK-SYNTHETIC: synthetic numeric test 987654321%.,MOCK-SYNTHETIC: retry marker sentence.,1,1,1
+DT05-020,MOCK-SYNTHETIC: synthetic numeric test 987654321%.,MOCK-SYNTHETIC: retry marker sentence.,1,1,1
+DT05-043,MOCK-SYNTHETIC: synthetic numeric test 987654321%.,MOCK-SYNTHETIC: retry marker sentence.,1,1,1
+DT05-047,MOCK-SYNTHETIC: synthetic numeric test 987654321%.,MOCK-SYNTHETIC: retry marker sentence.,1,1,1
+DT05-050,MOCK-SYNTHETIC: synthetic numeric test 987654321%.,MOCK-SYNTHETIC: retry marker sentence.,1,1,1
+DT05-059,MOCK-SYNTHETIC: synthetic numeric test 987654321%.,MOCK-SYNTHETIC: retry marker sentence.,1,1,1

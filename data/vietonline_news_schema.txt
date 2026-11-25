@@ -1,0 +1,18 @@
+Dataset: VLUS06/VietOnlineNews
+Retrieved at: 2026-11-25T09:51:48+07:00
+Revision: bd8d2a865c8981d34cb9d85f69f62bda7c40b520
+column_names: id, title, description, content, category
+category (13):
+- Bất động sản
+- Du lịch
+- Giáo dục
+- Giải trí
+- Khoa học công nghệ
+- Kinh doanh
+- Pháp luật
+- Sức khỏe
+- Thế giới
+- Thể thao
+- Thời sự
+- Xe
+- Đời sống

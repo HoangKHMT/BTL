@@ -1,0 +1,7 @@
+﻿item_id,split,experiments_present,error_flags,rougeL_by_exp,word_count_by_exp,surface_not_found_by_exp,gold_fact_recall_by_exp,gold_fact_count
+DT05-004,dev,E0,E0_low_rougeL;E0_length_out_of_range,E0:0.2394,E0:188w/3s,E0:0,E0:0.500000,4
+DT05-006,dev,E0,E0_low_rougeL;E0_length_out_of_range;E0_zero_gold_fact_recall,E0:0.1245,E0:168w/3s,E0:0,E0:0.000000,4
+DT05-018,dev,E0,E0_low_rougeL;E0_surface_not_found,E0:0.1714,E0:84w/3s,E0:1,E0:0.500000,2
+DT05-020,dev,E0,E0_low_rougeL;E0_zero_gold_fact_recall,E0:0.2247,E0:91w/3s,E0:0,E0:0.000000,2
+DT05-047,dev,E0,E0_low_rougeL,E0:0.2073,E0:74w/3s,E0:0,E0:0.333333,3
+DT05-059,dev,E0,E0_low_rougeL;E0_zero_gold_fact_recall,E0:0.1512,E0:84w/3s,E0:0,E0:0.000000,2

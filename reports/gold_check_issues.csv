@@ -1,0 +1,38 @@
+﻿item_id,severity,code,detail
+DT05-001,REVIEW,article_dot_decimal,"thân bài có số dạng chấm thập phân ['1.7', '24.10', '7.11']; kiểm tra tóm tắt/phiếu không bị đổi nghĩa"
+DT05-001,REVIEW,low_number_article_has_numbers,bài ít số liệu nhưng tóm tắt có số: xác nhận từng số có trong bài (nhóm này dùng đo việc bịa số)
+DT05-003,REVIEW,article_dot_decimal,thân bài có số dạng chấm thập phân ['20.7']; kiểm tra tóm tắt/phiếu không bị đổi nghĩa
+DT05-006,REVIEW,article_dot_decimal,thân bài có số dạng chấm thập phân ['12.8']; kiểm tra tóm tắt/phiếu không bị đổi nghĩa
+DT05-007,REVIEW,article_dot_decimal,thân bài có số dạng chấm thập phân ['27.9']; kiểm tra tóm tắt/phiếu không bị đổi nghĩa
+DT05-008,REVIEW,low_number_article_has_numbers,bài ít số liệu nhưng tóm tắt có số: xác nhận từng số có trong bài (nhóm này dùng đo việc bịa số)
+DT05-009,REVIEW,article_dot_decimal,"thân bài có số dạng chấm thập phân ['2.9', '3.9']; kiểm tra tóm tắt/phiếu không bị đổi nghĩa"
+DT05-010,REVIEW,article_dot_decimal,"thân bài có số dạng chấm thập phân ['13.3', '27.3', '28.3']; kiểm tra tóm tắt/phiếu không bị đổi nghĩa"
+DT05-011,REVIEW,article_dot_decimal,"thân bài có số dạng chấm thập phân ['10.12', '9.12']; kiểm tra tóm tắt/phiếu không bị đổi nghĩa"
+DT05-013,REVIEW,article_dot_decimal,"thân bài có số dạng chấm thập phân ['22.10', '24.10']; kiểm tra tóm tắt/phiếu không bị đổi nghĩa"
+DT05-014,REVIEW,article_dot_decimal,thân bài có số dạng chấm thập phân ['8.5']; kiểm tra tóm tắt/phiếu không bị đổi nghĩa
+DT05-015,REVIEW,article_dot_decimal,thân bài có số dạng chấm thập phân ['12.9']; kiểm tra tóm tắt/phiếu không bị đổi nghĩa
+DT05-016,REVIEW,article_dot_decimal,thân bài có số dạng chấm thập phân ['2.2']; kiểm tra tóm tắt/phiếu không bị đổi nghĩa
+DT05-018,REVIEW,low_number_article_has_numbers,bài ít số liệu nhưng tóm tắt có số: xác nhận từng số có trong bài (nhóm này dùng đo việc bịa số)
+DT05-023,REVIEW,low_number_article_has_numbers,bài ít số liệu nhưng tóm tắt có số: xác nhận từng số có trong bài (nhóm này dùng đo việc bịa số)
+DT05-026,REVIEW,low_number_article_has_numbers,bài ít số liệu nhưng tóm tắt có số: xác nhận từng số có trong bài (nhóm này dùng đo việc bịa số)
+DT05-035,REVIEW,low_number_article_has_numbers,bài ít số liệu nhưng tóm tắt có số: xác nhận từng số có trong bài (nhóm này dùng đo việc bịa số)
+DT05-039,REVIEW,unit_unverifiable,"'114,2 triệu': bài có số này nhưng máy không gắn được đơn vị; xem tay"
+DT05-041,REVIEW,low_number_article_has_numbers,bài ít số liệu nhưng tóm tắt có số: xác nhận từng số có trong bài (nhóm này dùng đo việc bịa số)
+DT05-045,REVIEW,low_number_article_has_numbers,bài ít số liệu nhưng tóm tắt có số: xác nhận từng số có trong bài (nhóm này dùng đo việc bịa số)
+DT05-054,REVIEW,low_number_article_has_numbers,bài ít số liệu nhưng tóm tắt có số: xác nhận từng số có trong bài (nhóm này dùng đo việc bịa số)
+DT05-058,REVIEW,low_number_article_has_numbers,bài ít số liệu nhưng tóm tắt có số: xác nhận từng số có trong bài (nhóm này dùng đo việc bịa số)
+DT05-060,REVIEW,low_number_article_has_numbers,bài ít số liệu nhưng tóm tắt có số: xác nhận từng số có trong bài (nhóm này dùng đo việc bịa số)
+DT05-003,WARN,unit_shortened,"'5 usd/tấn': bài viết đơn vị là ['%', 'usd']"
+DT05-004,WARN,unit_shortened,'200 triệu đồng': bài viết đơn vị là ['triệu đồng/năm']
+DT05-004,WARN,unit_shortened,'500 triệu đồng': bài viết đơn vị là ['triệu đồng/năm']
+DT05-004,WARN,unit_shortened,'500 triệu đồng': bài viết đơn vị là ['triệu đồng/năm']
+DT05-004,WARN,unit_shortened,'500 triệu đồng': bài viết đơn vị là ['triệu đồng/năm']
+DT05-009,WARN,unit_shortened,"'133,4 triệu đồng/lượng': bài viết đơn vị là ['triệu đồng']"
+DT05-011,WARN,unit_shortened,'25.155 đồng/usd': bài viết đơn vị là ['đồng']
+DT05-015,WARN,unit_shortened,"'132,8 triệu đồng/lượng': bài viết đơn vị là ['triệu đồng']"
+DT05-022,WARN,unit_shortened,"'1 tỷ đồng': bài viết đơn vị là ['triệu', 'tỷ', 'tỷ đồng/căn hộ']"
+DT05-031,WARN,unit_shortened,'2.400 đồng': bài viết đơn vị là ['đồng/cp']
+DT05-035,WARN,unit_shortened,'30 triệu đồng': bài viết đơn vị là ['triệu đồng/năm']
+DT05-036,WARN,unit_shortened,'5.800 tỷ đồng': bài viết đơn vị là ['tỷ đồng/tháng']
+DT05-051,WARN,unit_shortened,'60.000 đồng': bài viết đơn vị là ['đồng/bánh']
+DT05-051,WARN,unit_shortened,'55.000 đồng': bài viết đơn vị là ['đồng/bánh']

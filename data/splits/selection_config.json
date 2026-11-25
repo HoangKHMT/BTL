@@ -1,0 +1,21 @@
+{
+  "out": ".",
+  "categories": [
+    "Kinh doanh",
+    "Bất động sản"
+  ],
+  "n": 60,
+  "n_dev": 10,
+  "min_words": 250,
+  "max_words": 900,
+  "min_facts": 4,
+  "rich_frac": 0.8,
+  "pool": 4000,
+  "dup_sim": 0.8,
+  "event_sim": 0.4,
+  "cross_frac": 0.25,
+  "seed": 42,
+  "revision": "bd8d2a865c8981d34cb9d85f69f62bda7c40b520",
+  "repo": "VLUS06/VietOnlineNews",
+  "retrieved_at": "2026-11-25T09:51:48+07:00"
+}

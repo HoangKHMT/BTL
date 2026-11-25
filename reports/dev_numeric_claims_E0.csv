@@ -1,0 +1,41 @@
+﻿item_id,split,experiment,stage,claim_type,raw,value,unit,source_surface_status,human_review_status
+DT05-004,dev,E0,prediction,fact,200 triệu đồng/năm,200,triệu đồng/năm,value_unit_match,pending
+DT05-004,dev,E0,prediction,fact,500 triệu đồng/năm,500,triệu đồng/năm,value_unit_match,pending
+DT05-004,dev,E0,prediction,fact,500 triệu đồng/năm,500,triệu đồng/năm,value_unit_match,pending
+DT05-006,dev,E0,prediction,dot_decimal,12.8,12.8,,value_only,pending
+DT05-006,dev,E0,prediction,bare,2.100,2.100,,value_only,pending
+DT05-011,dev,E0,prediction,fact,25.155 đồng,25.155,đồng,value_unit_match,pending
+DT05-011,dev,E0,prediction,fact,26.172 đồng,26.172,đồng,value_unit_match,pending
+DT05-011,dev,E0,prediction,fact,26.412 đồng,26.412,đồng,value_unit_match,pending
+DT05-011,dev,E0,prediction,fact,26.180 đồng,26.180,đồng,value_unit_match,pending
+DT05-011,dev,E0,prediction,fact,26.412 đồng,26.412,đồng,value_unit_match,pending
+DT05-011,dev,E0,prediction,dot_decimal,10.12,10.12,,value_only,pending
+DT05-017,dev,E0,prediction,fact,25.356 tỷ đồng,25.356,tỷ đồng,value_unit_match,pending
+DT05-017,dev,E0,prediction,bare,31.655,31.655,,value_only,pending
+DT05-017,dev,E0,prediction,bare,27,27,,value_only,pending
+DT05-017,dev,E0,prediction,bare,462,462,,value_only,pending
+DT05-018,dev,E0,prediction,fact,30.000 m2,30.000,m2,not_found,pending
+DT05-018,dev,E0,prediction,bare,151,151,,value_only,pending
+DT05-018,dev,E0,prediction,bare,153,153,,value_only,pending
+DT05-018,dev,E0,prediction,bare,231,231,,value_only,pending
+DT05-020,dev,E0,prediction,bare,2024,2024,,value_only,pending
+DT05-020,dev,E0,prediction,bare,1,1,,value_only,pending
+DT05-020,dev,E0,prediction,bare,8,8,,value_only,pending
+DT05-020,dev,E0,prediction,bare,1,1,,value_only,pending
+DT05-020,dev,E0,prediction,bare,257,257,,value_only,pending
+DT05-020,dev,E0,prediction,bare,2024,2024,,value_only,pending
+DT05-020,dev,E0,prediction,bare,2013,2013,,value_only,pending
+DT05-043,dev,E0,prediction,fact,220 triệu usd,220,triệu usd,value_unit_match,pending
+DT05-047,dev,E0,prediction,fact,"1,5 triệu","1,5",triệu,value_unit_match,pending
+DT05-047,dev,E0,prediction,fact,766.000 cổ phiếu,766.000,cổ phiếu,value_unit_match,pending
+DT05-047,dev,E0,prediction,fact,5 %,5,%,value_unit_match,pending
+DT05-047,dev,E0,prediction,fact,"14,89 %","14,89",%,value_unit_match,pending
+DT05-047,dev,E0,prediction,bare,4,4,,value_only,pending
+DT05-050,dev,E0,prediction,fact,"1,24 tỷ usd","1,24",tỷ usd,value_unit_match,pending
+DT05-050,dev,E0,prediction,fact,"19,2 %","19,2",%,value_unit_match,pending
+DT05-050,dev,E0,prediction,bare,04,04,,value_only,pending
+DT05-050,dev,E0,prediction,bare,25,25,,value_only,pending
+DT05-050,dev,E0,prediction,bare,9,9,,value_only,pending
+DT05-050,dev,E0,prediction,bare,55,55,,value_only,pending
+DT05-059,dev,E0,prediction,bare,26,26,,value_only,pending
+DT05-059,dev,E0,prediction,bare,4,4,,value_only,pending

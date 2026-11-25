@@ -1,0 +1,325 @@
+{
+  "run_id": "MOCK-20261125T2044-E2-TEST",
+  "created_at": "2026-11-25T13:46:54+00:00",
+  "experiment": "E2",
+  "split": "test",
+  "model_id": "MOCK-SYNTHETIC-E2",
+  "api_endpoint": "mock://synthetic",
+  "temperature": 0.1,
+  "prompt_version": "e2-numeric-v1",
+  "run_commit": "",
+  "source_fingerprint": "d4db71a25a57fd9b53632c4791b9141c45ec6bca573e6e55ecdca34fe1b6f9fd",
+  "worktree_status": "uncommitted",
+  "source_revision": "bd8d2a865c8981d34cb9d85f69f62bda7c40b520",
+  "protocol_tag": "protocol-frozen",
+  "protocol_commit": "072666a471383d8596c03c28a70ec2c2ad6ee363",
+  "config_tag": "MOCK-UNFROZEN-NOT-BENCHMARK",
+  "config_tag_commit": "",
+  "postcheck_policy": "regenerate_once_then_drop",
+  "status": "completed",
+  "completed_ids": [
+    "DT05-001",
+    "DT05-002",
+    "DT05-003",
+    "DT05-005",
+    "DT05-007",
+    "DT05-008",
+    "DT05-009",
+    "DT05-010",
+    "DT05-012",
+    "DT05-013",
+    "DT05-014",
+    "DT05-015",
+    "DT05-016",
+    "DT05-019",
+    "DT05-021",
+    "DT05-022",
+    "DT05-023",
+    "DT05-024",
+    "DT05-025",
+    "DT05-026",
+    "DT05-027",
+    "DT05-028",
+    "DT05-029",
+    "DT05-030",
+    "DT05-031",
+    "DT05-032",
+    "DT05-033",
+    "DT05-034",
+    "DT05-035",
+    "DT05-036",
+    "DT05-037",
+    "DT05-038",
+    "DT05-039",
+    "DT05-040",
+    "DT05-041",
+    "DT05-042",
+    "DT05-044",
+    "DT05-045",
+    "DT05-046",
+    "DT05-048",
+    "DT05-049",
+    "DT05-051",
+    "DT05-052",
+    "DT05-053",
+    "DT05-054",
+    "DT05-055",
+    "DT05-056",
+    "DT05-057",
+    "DT05-058",
+    "DT05-060"
+  ],
+  "item_results": {
+    "DT05-001": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-002": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-003": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-005": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-007": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-008": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-009": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-010": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-012": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-013": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-014": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-015": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-016": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-019": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-021": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-022": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-023": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-024": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-025": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-026": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-027": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-028": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-029": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-030": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-031": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-032": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-033": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-034": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-035": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-036": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-037": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-038": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-039": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-040": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-041": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-042": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-044": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-045": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-046": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-048": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-049": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-051": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-052": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-053": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-054": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-055": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-056": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-057": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-058": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    },
+    "DT05-060": {
+      "retry_count": 1,
+      "dropped_sentence_count": 1,
+      "final_sentence_count": 1
+    }
+  },
+  "completed_at": "2026-11-25T13:46:54+00:00"
+}
